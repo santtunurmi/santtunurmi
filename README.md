@@ -26,7 +26,7 @@ I have not landed a job in the field of my study yet, but I have worked in retai
 
 ### Projects
 
-Minecraft Wall Calculator: This may seem like an odd little project, and it's not complex, I'll admit, but it was spawned from a genuine need for a program that did exactly that functionality. After unsuccessfully trying to find one online, I simply coded it from scratch, when I had barely any coding experience. I still use it to this day.
+Minecraft Wall Calculator: This may seem like an odd little project, and it's not complex, I'll admit, but it was spawned from a genuine need for a programm that did exactly that functionality. After unsuccessfully trying to find one online, I simply coded it from scratch, when I had barely any coding experience. I still use it to this day.
 
 ### Certifications
 
