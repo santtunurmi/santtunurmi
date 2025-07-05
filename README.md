@@ -1,6 +1,6 @@
 ## About me:
 
-I am a 21-year-old engineering student in the JAMK University of Applied Sciences in the field of information and communication technology (ICT), specializing in data analytics and AI. I am actively looking for jobs and I want to increase my work experience. My hobbies include music and video games.
+I am a 22-year-old engineering student in the JAMK University of Applied Sciences in the field of information and communication technology (ICT), specializing in data analytics and AI. I am actively looking for jobs and I want to increase my work experience. My hobbies include music and video games.
 I am very interested in both data-analytics and AI. In the future I plan on graduating as an ICT-engineer and improve in my field in the workforce. I work the most efficient solo, but I am also a fantastic team-player as I can explain myself efficiently and clearly. I am a fast learner.
 
 ### Skills:
