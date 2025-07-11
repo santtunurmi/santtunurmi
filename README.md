@@ -1,7 +1,7 @@
 ## About me:
 
-I am a 22-year-old engineering student in the JAMK University of Applied Sciences in the field of information and communication technology (ICT), specializing in data analytics and AI. I am actively looking for jobs and I want to increase my work experience. My hobbies include music and video games.
-I am very interested in both data-analytics and AI. In the future I plan on graduating as an ICT-engineer and improve in my field in the workforce. I work the most efficient solo, but I am also a fantastic team-player as I can explain myself efficiently and clearly. I am a fast learner.
+I am a 22-year-old engineering student in the JAMK University of Applied Sciences in the field of information and communication technology (ICT), specializing in data analytics and AI. I am actively looking for jobs and I want to increase my work experience. My hobbies include music and video games.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; I am very interested in both data-analytics and AI. In the future I plan on graduating as an ICT-engineer and improve in my field in the workforce. I work the most efficient solo, but I am also a fantastic team-player as I can explain myself efficiently and clearly. I am a fast learner.
 
 ### Skills:
 
@@ -26,7 +26,12 @@ I have not landed a job in the field of my study yet, but I have worked in retai
 
 ### Projects
 
-Minecraft Wall Calculator: This may seem like an odd little project, and it's not complex, I'll admit, but it was spawned from a genuine need for a programm that did exactly that functionality. After unsuccessfully trying to find one online, I simply coded it from scratch, when I had barely any coding experience. I still use it to this day.
+#### &nbsp; &nbsp; &nbsp; &nbsp; Minecraft Wall Calculator:
+
+&nbsp; &nbsp; &nbsp; &nbsp; This may seem like an odd little project, and it's not complex, I'll admit,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; but it was spawned from a genuine need for a programm that did exactly this functionality.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; After unsuccessfully trying to find one online, I simply coded it from scratch, when I had barely any coding experience.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; I still use it to this day.
 
 ### Certifications
 
