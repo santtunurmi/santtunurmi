@@ -39,8 +39,8 @@ I have not landed a job in the field of my study yet, but I have worked in retai
 
 &nbsp; &nbsp; &nbsp; &nbsp; This may seem like an odd little project, and it's not complex, I'll admit,<br />
 &nbsp; &nbsp; &nbsp; &nbsp; but it was spawned from a genuine need for a program that did exactly this functionality.<br />
-&nbsp; &nbsp; &nbsp; &nbsp; After unsuccessfully trying to find one online, I simply coded it from scratch, when I had barely any coding experience.<br />
-&nbsp; &nbsp; &nbsp; &nbsp; I still use it to this day.
+&nbsp; &nbsp; &nbsp; &nbsp; After unsuccessfully trying to find one online, I simply coded it from scratch,<br />
+&nbsp; &nbsp; &nbsp; &nbsp; when I had barely any coding experience. I still use it to this day.
 
 &nbsp; &nbsp; &nbsp; &nbsp; GitHub: https://github.com/santtunurmi/Minecraft-Wall-Calculator
 
