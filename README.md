@@ -26,7 +26,7 @@ I have not landed a job in the field of my study yet, but I have worked in retai
 
 ### Projects
 
-#### &nbsp; &nbsp; &nbsp; &nbsp; Portfolio website:
+#### Portfolio website:
 
 &nbsp; &nbsp; &nbsp; &nbsp; V1.0 was built top to bottom with just HTML, CSS and JavaScript, with no additional libraries used.<br />
 &nbsp; &nbsp; &nbsp; &nbsp; Now it is saved on it's own branch, as I have implemented Bootstrap, SASS and a Javascript compiler for my site.<br />
@@ -35,7 +35,7 @@ I have not landed a job in the field of my study yet, but I have worked in retai
 &nbsp; &nbsp; &nbsp; &nbsp; Externally hosted on Netlify: https://santtunurmi.netlify.app/
 &nbsp; &nbsp; &nbsp; &nbsp; GitHub pages: https://santtunurmi.github.io/
 
-#### &nbsp; &nbsp; &nbsp; &nbsp; Minecraft Wall Calculator:
+#### Minecraft Wall Calculator:
 
 &nbsp; &nbsp; &nbsp; &nbsp; This may seem like an odd little project, and it's not complex, I'll admit,<br />
 &nbsp; &nbsp; &nbsp; &nbsp; but it was spawned from a genuine need for a program that did exactly this functionality.<br />
