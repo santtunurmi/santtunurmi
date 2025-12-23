@@ -45,7 +45,7 @@ I worked as a production manager part-time for NUKE-Liiga, which is a Finnish ac
 
 #### Portfolio website:
 
-&nbsp; &nbsp; &nbsp; &nbsp; V1.0.0 was built top to bottom with just HTML, CSS and JavaScript, with no additional libraries used.
+&nbsp; &nbsp; &nbsp; &nbsp; V1.0.0 was built top to bottom with just HTML, CSS and JavaScript, with no additional libraries used.<br />
 &nbsp; &nbsp; &nbsp; &nbsp; Now it is saved on it's own branch.<br />
 &nbsp; &nbsp; &nbsp; &nbsp; On V2.0.0 I have implemented Bootstrap, SASS and a Javascript compiler for my site, with the site content updated considerably.<br />
 &nbsp; &nbsp; &nbsp; &nbsp; I am continuously upgrading the site, so consider it a work in progress!<br />
