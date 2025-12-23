@@ -1,19 +1,36 @@
 ## About me:
 
-I am a 22-year-old engineering student in the JAMK University of Applied Sciences in the field of information and communication technology (ICT), specializing in data analytics and AI. I am actively looking for jobs and I want to increase my work experience. My hobbies include music and video games.<br />
-&nbsp; &nbsp; &nbsp; &nbsp; I am very interested in both data-analytics and AI. In the future I plan on graduating as an ICT-engineer and improve in my field in the workforce. I work the most efficient solo, but I am also a fantastic team-player as I can explain myself efficiently and clearly. I am a fast learner.
+I am a 22-year-old engineering student at the University of Applied Sciences in Jyväskylä
+in the field of information and communication technology (ICT), specializing in data
+analytics and AI. I have additionally completed specialized courses in full-stack
+development. I am actively looking for job opportunities, which I hope can improve my
+proficiency and work experience in the field.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; I have been described as analytical, improvement-oriented and able to reflect
+on my own work and take in feedback. I have proven to have elite-level pressure
+management and can work well in high-stress environments. The main thing that excites
+me in the workforce are projects, as working towards a common goal is something that
+resonates with me deeply.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; My goal is to land an internship to both finish my degree and enter the
+workforce. I work efficiently on my own, but I am also a team player, as I can voice my
+opinion clearly and constructively. I am a fast learner, and I adapt quickly to new
+challenges.
 
 ### Skills:
 
 Some of the stuff that I have worked with in school and hobbies include:
 
+- HTML & CSS
 - Python
 - JavaScript
+- Bootstrap
+- C#
+- SASS
+- Node.js
+- React
 - Pandas
 - SQL
 - Anaconda
 - R
-- HTML & CSS
 - Powershell
 - C & C++
 - Linux
@@ -22,14 +39,14 @@ Some of the stuff that I have worked with in school and hobbies include:
 
 ### Career
 
-I have not landed a job in the field of my study yet, but I have worked in retail, which has taught me valuable lessons in teamwork and communication, skills that are valuable in every field.
+I worked as a production manager part-time for NUKE-Liiga, which is a Finnish academy league project for the Counter-Strike eSport. I handled the preparation, management and the technical execution of the broadcast, as well as the in-game camerawork.
 
 ### Projects
 
 #### Portfolio website:
 
-&nbsp; &nbsp; &nbsp; &nbsp; V1.0 was built top to bottom with just HTML, CSS and JavaScript, with no additional libraries used.<br />
-&nbsp; &nbsp; &nbsp; &nbsp; Now it is saved on it's own branch, as I have implemented Bootstrap, SASS and a Javascript compiler for my site.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; V1.0.0 was built top to bottom with just HTML, CSS and JavaScript, with no additional libraries used. Now it is saved on it's own branch.<br />
+&nbsp; &nbsp; &nbsp; &nbsp; On V2.0.0 I have implemented Bootstrap, SASS and a Javascript compiler for my site, with the site content updated considerably.<br />
 &nbsp; &nbsp; &nbsp; &nbsp; I am continuously upgrading the site, so consider it a work in progress!<br />
 
 &nbsp; &nbsp; &nbsp; &nbsp; Externally hosted on Netlify: https://santtunurmi.netlify.app/
