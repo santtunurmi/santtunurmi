@@ -2,12 +2,12 @@
 
 Project-first software developer and technical problem-solver based in Jyväskylä, Finland.
 
-I build and improve practical systems across software, web, tooling, technical reporting, and live production. I am finishing an ICT engineering degree, with my thesis planned for autumn 2026, and I am especially interested in scoped project work where an unclear technical problem needs to become a useful, tested result.
+I build and improve practical systems across software, web, tooling, technical reporting, and live production. I am finishing an ICT engineering degree, with thesis completion estimated for February 2027.
 
 ## Recent work
 
 - **NUKE-Liiga — Production Manager:**
-    Broadcast preparation, technical execution, in-game camerawork, and coordination with casters, designers, admins, and other stakeholders across two completed seasons, now continuing into a third in fall 2026.
+    Broadcast preparation, technical execution, in-game camerawork, and coordination with casters, designers, admins, and other stakeholders across two completed seasons and NUKE-Liiga's ongoing third season.
 - **EXEN esports Oy — Software Development Intern:**
     Application development, technical website auditing, WordPress/PHP work, CI/CD and cloud-hosting research, and restoration of an inventory system for a business partner.
 - **Portfolio website:**
@@ -20,7 +20,7 @@ People have described me as hard-working, committed, analytical, and improvement
 taking feedback seriously, and getting things done. My projects and work at EXEN and NUKE-Liiga are the most recent examples of these qualities in action.
 
 AI is part of my workflow, but not a substitute for judgment. I use tools such
-as ChatGPT Codex, Claude Code, OpenClaw, and OpenCode for exploration,
+as ChatGPT Codex, Claude Code, OpenClaw, and Hermes for exploration,
 implementation, review, and rapid learning. I keep responsibility for context,
 direction, testing, and final decisions.
 
@@ -37,9 +37,9 @@ coordination, and pressure management
 
 ## Current direction
 
-I am exploring light entrepreneurship as a practical way to take on scoped
-software and technical projects in Finland while building toward a future
-registered business. I remain open to other opportunities as well.
+I am open to full-time employment, with an earliest estimated start in early
+March 2027. I am also open to scoped software and technical projects through
+Finland's light-entrepreneurship model.
 
 - [Portfolio](https://santtunurmi.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/santtu-nurmi-84a233205/)
